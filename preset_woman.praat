@@ -1,0 +1,22 @@
+form Select Parameter
+	natural mini1 210
+	natural maxi1 270
+	natural mini2 2586
+	natural maxi2 3083
+	natural minu1 206
+	natural maxu1 280
+	natural minu2 546
+	natural maxu2 711
+	natural mino1 440
+	natural maxo1 581
+	natural mino2 832
+	natural maxo2 1130
+	natural mine1 445
+	natural maxe1 538
+	natural mine2 2085
+	natural maxe2 2421
+	natural mina1 598
+	natural maxa1 729
+	natural mina2 1054
+	natural maxa2 1282
+endform
